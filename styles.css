@@ -25,7 +25,12 @@ h1{
 	/* width:100%; */
 	height:20px;	
 }
-
+.blue{
+	background-color:blue;
+}
+.green{
+	background-color:green;
+}
 #table-3  #t-image td{
 	width:200px;
 	/* height:70px; */
