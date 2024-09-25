@@ -14,7 +14,9 @@ h1{
 	spacing:1px;
 	cell-padding:1px;
 }
-
+#table-1{
+	border:1px solid rgb(0,0,0);
+}
 .center{
 	text-align:center;
 }
